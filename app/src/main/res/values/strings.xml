@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FactSo</string>
+    <string name="tell_me_a_new_fact">Tell me a new Fact</string>
+</resources>
